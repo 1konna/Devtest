@@ -1,2 +1,1 @@
-# Devtest
-Devtest deplyment repository
+Devtest Azure webapp deployment trials
